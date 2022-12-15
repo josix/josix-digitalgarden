@@ -9,20 +9,19 @@ body {
 .content {
     max-width: 800px;
     margin: auto;
-    font-size: 22px;
+    font-size: 20px;
     line-height: 1.5;
     margin-top: 90px;
 
-    @media(max-width: 800px) {
+    @media (max-width: 800px) {
         margin-top: 150px;
     }
-
 }
 
 .external-link {
     background-position: center right;
     background-repeat: no-repeat;
-    background-image: linear-gradient(transparent, transparent), url('/img/outgoing.svg');
+    background-image: linear-gradient(transparent, transparent), url("/img/outgoing.svg");
     background-size: 13px;
     padding-right: 16px;
     background-position-y: 4px;
@@ -52,7 +51,7 @@ div[class*="callout-"] .admonition-title::before {
 }
 
 code[class*="language-ad-"] {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     white-space: normal !important;
 }
 
@@ -114,8 +113,8 @@ ul.task-list {
     font-size: 1rem;
 }
 
-.graph{
-    .graph-title{
+.graph {
+    .graph-title {
         width: fit-content;
         background-color: var(--background-secondary);
         margin: 10px 0 0 0;
@@ -133,7 +132,7 @@ ul.task-list {
     width: fit-content;
 }
 
-@media(max-width: 1490px) {
+@media (max-width: 1490px) {
     .sidebar {
         position: relative;
         transform: none;
@@ -141,7 +140,7 @@ ul.task-list {
         margin-top: 50px;
     }
 
-    .graph{
+    .graph {
         display: none;
     }
     .backlinks {
@@ -152,24 +151,24 @@ ul.task-list {
 .filetree-sidebar {
     margin: 0;
     z-index: 10;
-    padding: 10px; 
-    top:0px; 
-    left:0; 
-    position: fixed; 
-    height: 100%; 
-    background-color: var(--background-secondary); 
-    color: var(--text-muted); 
-    overflow-y:auto; 
+    padding: 10px;
+    top: 0px;
+    left: 0;
+    position: fixed;
+    height: 100%;
+    background-color: var(--background-secondary);
+    color: var(--text-muted);
+    overflow-y: auto;
     width: 250px;
 }
 
 .empty-navbar {
-    display: flex; 
-    justify-content: flex-end; 
+    display: flex;
+    justify-content: flex-end;
     margin-bottom: -60px;
 
-    @media(max-width: 800px) {
-        justify-content: center; 
+    @media (max-width: 800px) {
+        justify-content: center;
     }
 
     .search-button {
@@ -191,14 +190,13 @@ ul.task-list {
     align-items: center;
 
     .navbar-inner {
-        display: flex; 
-        align-items: center; 
+        display: flex;
+        align-items: center;
         cursor: pointer;
     }
 
-    .search-button{
-
-        @media(max-width: 800px) {
+    .search-button {
+        @media (max-width: 800px) {
             min-width: 120px;
             margin: 10px 50px 10px 25px;
         }
@@ -222,8 +220,8 @@ ul.task-list {
     border-left: 1px solid var(--text-accent);
 }
 
-.notelink.active-note{
-    a{
+.notelink.active-note {
+    a {
         color: var(--text-accent);
     }
     color: var(--text-accent);
@@ -231,19 +229,18 @@ ul.task-list {
     transform: translateX(10px);
 }
 
-.fullpage-overlay{
-    background-color: rgba(0,0,0,0.5); 
-    position: absolute; 
-    top:0; 
-    right:0; 
-    left:0; 
-    bottom:0; 
-    z-index: 5
+.fullpage-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 5;
 }
 
-
 .search-container {
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     position: fixed;
     top: 0;
     right: 0;
@@ -277,7 +274,6 @@ ul.task-list {
     font-size: 2rem;
     background-color: var(--background-primary);
     color: var(--text-primary);
-
 }
 .search-box input:focus {
     outline: none;
@@ -310,7 +306,7 @@ ul.task-list {
         border: 2px solid var(--text-accent);
     }
 
-    &.active{
+    &.active {
         border: 2px solid var(--text-accent);
     }
 }
@@ -342,31 +338,27 @@ ul.task-list {
     margin: 10px 65px;
     border: 1px solid var(--text-normal);
     cursor: pointer;
-    >span{
+    > span {
         padding: 3px 3px 3px 10px;
     }
-    >i{
+    > i {
         margin-left: 10px;
     }
 
-    &:hover{
+    &:hover {
         border: 1px solid var(--text-accent);
     }
-
-
 }
 
-
-
 .search-keys {
-    @media(max-width: 800px) {
+    @media (max-width: 800px) {
         display: none;
     }
 }
 
 div[class*="language-ad-"],
 div[class*="callout-"] {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     word-wrap: break-word;
     border-radius: 6px;
     display: block;
@@ -375,7 +367,7 @@ div[class*="callout-"] {
     outline-color: rgb(230, 230, 230);
     padding: 1rem;
     position: relative;
-    transition: height .5s ease-in, opacity .5s ease-in;
+    transition: height 0.5s ease-in, opacity 0.5s ease-in;
     word-break: break-word;
     white-space: normal !important;
 }
@@ -439,279 +431,279 @@ div.callout-seealso {
 div.language-ad-abstract,
 div.callout-abstract {
     .admonition-title::before {
-        content: '📚'
+        content: "📚";
     }
 }
 
 div.language-ad-summary,
 div.callout-summary {
     .admonition-title::before {
-        content: '📚'
+        content: "📚";
     }
 }
 
 div.language-ad-tldr,
 div.callout-tldr {
     .admonition-title::before {
-        content: '📚'
+        content: "📚";
     }
 }
 
 div.language-ad-todo,
 div.callout-todo {
     .admonition-title::before {
-        content: '☑️'
+        content: "☑️";
     }
 }
 
 div.language-ad-hint,
 div.callout-hint {
     .admonition-title::before {
-        content: '🔥'
+        content: "🔥";
     }
 }
 
 div.language-ad-success,
 div.callout-success {
     .admonition-title::before {
-        content: ✅
+        content: ✅;
     }
 }
 
 div.language-ad-check,
 div.callout-check {
     .admonition-title::before {
-        content: '✅'
+        content: "✅";
     }
 }
 
 div.language-ad-done,
 div.callout-done {
     .admonition-title::before {
-        content: '✅'
+        content: "✅";
     }
 }
 
 div.language-ad-question,
 div.callout-question {
     .admonition-title::before {
-        content: '❓'
+        content: "❓";
     }
 }
 
 div.language-ad-help,
 div.callout-help {
     .admonition-title::before {
-        content: '❓'
+        content: "❓";
     }
 }
 
 div.language-ad-faq,
 div.callout-faq {
     .admonition-title::before {
-        content: '❓'
+        content: "❓";
     }
 }
 
 div.language-ad-attention,
 div.callout-attention {
     .admonition-title::before {
-        content: '⚠️'
+        content: "⚠️";
     }
 }
 
 div.language-ad-failure,
 div.callout-failure {
     .admonition-title::before {
-        content: '❌'
+        content: "❌";
     }
 }
 
 div.language-ad-fail,
 div.callout-fail {
     .admonition-title::before {
-        content: '❌'
+        content: "❌";
     }
 }
 
 div.language-ad-missing,
 div.callout-missing {
     .admonition-title::before {
-        content: '❌'
+        content: "❌";
     }
 }
 
 div.language-ad-danger,
 div.callout-danger {
     .admonition-title::before {
-        content: '⚡'
+        content: "⚡";
     }
 }
 
 div.language-ad-error,
 div.callout-error {
     .admonition-title::before {
-        content: '⚡'
+        content: "⚡";
     }
 }
 
 div.language-ad-bug,
 div.callout-bug {
     .admonition-title::before {
-        content: '🐞'
+        content: "🐞";
     }
 }
 
 div.language-ad-quote,
 div.callout-quote {
     .admonition-title::before {
-        content: '💬'
+        content: "💬";
     }
 }
 
 div.language-ad-cite,
 div.callout-cite {
     .admonition-title::before {
-        content: '💬'
+        content: "💬";
     }
 }
 
 div.language-ad-note,
 div.callout-note {
-    background-color: rgba(68, 138, 255, .5)
+    background-color: rgba(68, 138, 255, 0.5);
 }
 
 div.language-ad-seealso,
 div.callout-seealso {
-    background-color: rgba(68, 138, 255, .5)
+    background-color: rgba(68, 138, 255, 0.5);
 }
 
 div.language-ad-abstract,
 div.callout-abstract {
-    background-color: rgba(0, 176, 255, .5)
+    background-color: rgba(0, 176, 255, 0.5);
 }
 
 div.language-ad-summary,
 div.callout-summary {
-    background-color: rgba(0, 176, 255, .5)
+    background-color: rgba(0, 176, 255, 0.5);
 }
 
 div.language-ad-tldr,
 div.callout-tldr {
-    background-color: rgba(0, 176, 255, .5)
+    background-color: rgba(0, 176, 255, 0.5);
 }
 
 div.language-ad-info,
 div.callout-info {
-    background-color: rgba(0, 184, 212, .5)
+    background-color: rgba(0, 184, 212, 0.5);
 }
 
 div.language-ad-todo,
 div.callout-todo {
-    background-color: rgba(0, 184, 212, .5)
+    background-color: rgba(0, 184, 212, 0.5);
 }
 
 div.language-ad-tip,
 div.callout-tip {
-    background-color: rgba(0, 191, 165, .5)
+    background-color: rgba(0, 191, 165, 0.5);
 }
 
 div.language-ad-hint,
 div.callout-hint {
-    background-color: rgba(0, 191, 165, .5)
+    background-color: rgba(0, 191, 165, 0.5);
 }
 
 div.language-ad-important,
 div.callout-important {
-    background-color: rgba(0, 191, 165, .5)
+    background-color: rgba(0, 191, 165, 0.5);
 }
 
 div.language-ad-success,
 div.callout-success {
-    background-color: rgba(0, 200, 83, .5)
+    background-color: rgba(0, 200, 83, 0.5);
 }
 
 div.language-ad-check,
 div.callout-check {
-    background-color: rgba(0, 200, 83, .5)
+    background-color: rgba(0, 200, 83, 0.5);
 }
 
 div.language-ad-done,
 div.callout-done {
-    background-color: rgba(0, 200, 83, .5)
+    background-color: rgba(0, 200, 83, 0.5);
 }
 
 div.language-ad-question,
 div.callout-question {
-    background-color: rgba(100, 221, 23, .5)
+    background-color: rgba(100, 221, 23, 0.5);
 }
 
 div.language-ad-help,
 div.callout-help {
-    background-color: rgba(100, 221, 23, .5)
+    background-color: rgba(100, 221, 23, 0.5);
 }
 
 div.language-ad-faq,
 div.callout-faq {
-    background-color: rgba(100, 221, 23, .5)
+    background-color: rgba(100, 221, 23, 0.5);
 }
 
 div.language-ad-warning,
 div.callout-warning {
-    background-color: rgba(255, 145, 0, .5)
+    background-color: rgba(255, 145, 0, 0.5);
 }
 
 div.language-ad-caution,
 div.callout-caution {
-    background-color: rgba(255, 145, 0, .5)
+    background-color: rgba(255, 145, 0, 0.5);
 }
 
 div.language-ad-attention,
 div.callout-attention {
-    background-color: rgba(255, 145, 0, .5)
+    background-color: rgba(255, 145, 0, 0.5);
 }
 
 div.language-ad-failure,
 div.callout-failure {
-    background-color: rgba(255, 82, 82, .5)
+    background-color: rgba(255, 82, 82, 0.5);
 }
 
 div.language-ad-fail,
 div.callout-fail {
-    background-color: rgba(255, 82, 82, .5)
+    background-color: rgba(255, 82, 82, 0.5);
 }
 
 div.language-ad-missing,
 div.callout-missing {
-    background-color: rgba(255, 82, 82, .5)
+    background-color: rgba(255, 82, 82, 0.5);
 }
 
 div.language-ad-danger,
 div.callout-danger {
-    background-color: rgba(255, 23, 68, .5)
+    background-color: rgba(255, 23, 68, 0.5);
 }
 
 div.language-ad-error,
 div.callout-error {
-    background-color: rgba(255, 23, 68, .5)
+    background-color: rgba(255, 23, 68, 0.5);
 }
 
 div.language-ad-bug,
 div.callout-bug {
-    background-color: rgba(245, 0, 87, .5)
+    background-color: rgba(245, 0, 87, 0.5);
 }
 
 div.language-ad-example,
 div.callout-example {
-    background-color: rgba(124, 77, 255, .5)
+    background-color: rgba(124, 77, 255, 0.5);
 }
 
 div.language-ad-quote,
 div.callout-quote {
-    background-color: rgba(158, 158, 158, .5)
+    background-color: rgba(158, 158, 158, 0.5);
 }
 
 div.language-ad-cite,
 div.callout-cite {
-    background-color: rgba(158, 158, 158, .5)
+    background-color: rgba(158, 158, 158, 0.5);
 }
