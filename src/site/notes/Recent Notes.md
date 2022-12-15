@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recent-notes/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/recent-notes/","tags":"gardenEntry","dgShowBacklinks":false}
 ---
 
 - [[health/睡眠\|睡眠]]
