@@ -27,6 +27,16 @@
     <link href="/styles/style.css" rel="stylesheet">
 {%endif%}
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{meta.GTagID}}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', "{{meta.GTagID}}");
+</script>
+
 <link href="/styles/custom-style.css" rel="stylesheet">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">

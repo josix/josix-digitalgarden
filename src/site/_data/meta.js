@@ -30,6 +30,7 @@ module.exports = async() => {
         env: process.env.ELEVENTY_ENV,
         theme: process.env.THEME,
         themeStyle: themeStyle,
+        GTagID: process.env.GTAG_ID,
         baseTheme: process.env.BASE_THEME || "dark",
         siteName: process.env.SITE_NAME_HEADER || "Digital Garden",
         siteBaseUrl: baseUrl,
