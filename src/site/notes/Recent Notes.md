@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/recent-notes/","tags":"gardenEntry","dgShowBacklinks":false}
 ---
 
+- [[productivity/the-seven-habits-of-highly-effective-people/主動積極\|主動積極]]
 - [[software-engineer/designing-data-intensive-application/Transaction\|Transaction]]
 - [[health/睡眠\|睡眠]]
 - [[management/coaching-for-performance/成長模式\|成長模式]]
