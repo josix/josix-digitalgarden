@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/recent-notes/","tags":"gardenEntry","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/recent-notes/","tags":["gardenEntry"]}
 ---
 
-- [[productivity/the-seven-habits-of-highly-effective-people/主動積極\|主動積極]]
-- [[software-engineer/designing-data-intensive-application/Transaction\|Transaction]]
+- [[software-engineer/database/Share-Nothing System\|Share-Nothing System]]
+- [[software-engineer/cmu-advanced-database-systems/Lecture 1 - Modern OLAP Database Systems\|Lecture 1 - Modern OLAP Database Systems]]
 - [[health/睡眠\|睡眠]]
 - [[management/coaching-for-performance/成長模式\|成長模式]]
 - [[management/聆聽\|聆聽]]
