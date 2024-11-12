@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/the-art-of-unit-testing/stub","permalink":"/software-engineer/the-art-of-unit-testing/stub/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/the-art-of-unit-testing/stub","permalink":"/software-engineer/the-art-of-unit-testing/stub/","title":"stub"}
 ---
 
 <!-- # 筆記本體 -->

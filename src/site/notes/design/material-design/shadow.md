@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"design/material-design/shadow","permalink":"/design/material-design/shadow/"}
+{"dg-publish":true,"dg-permalink":"design/material-design/shadow","permalink":"/design/material-design/shadow/","title":"shadow"}
 ---
 
 - shadow 可以用於表達 [[design/material-design/elevation\|elevation]] 的程度，shadow 的大小和模糊化的程度表達兩個 [[design/material-design/surface\|surface]] 之間的距離即 elevation 的程度差異，不論是否有所重疊。

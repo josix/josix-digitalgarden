@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/terms query","permalink":"/software-engineer/tools/elasticsearch/terms query/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/terms query","permalink":"/software-engineer/tools/elasticsearch/terms query/","title":"terms query"}
 ---
 
 - terms query 用於搜尋多個完全匹配的 term 時，另外也可以可以透過 [[bool query\|bool query]] 達成

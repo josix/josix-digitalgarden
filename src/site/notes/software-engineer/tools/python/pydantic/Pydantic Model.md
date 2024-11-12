@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/python/pydantic/Pydantic Model","permalink":"/software-engineer/tools/python/pydantic/Pydantic Model/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/python/pydantic/Pydantic Model","permalink":"/software-engineer/tools/python/pydantic/Pydantic Model/","title":"Pydantic Model"}
 ---
 
 ## 什麼是 Model

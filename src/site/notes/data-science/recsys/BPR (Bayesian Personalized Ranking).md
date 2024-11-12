@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"data-science/recsys/BPR (Bayesian Personalized Ranking)","permalink":"/data-science/recsys/BPR (Bayesian Personalized Ranking)/"}
+{"dg-publish":true,"dg-permalink":"data-science/recsys/BPR (Bayesian Personalized Ranking)","permalink":"/data-science/recsys/BPR (Bayesian Personalized Ranking)/","title":"BPR (Bayesian Personalized Ranking)","tags":["recsys","thesis"]}
 ---
 
 

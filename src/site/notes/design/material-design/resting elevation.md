@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"design/material-design/resting elevation","permalink":"/design/material-design/resting elevation/"}
+{"dg-publish":true,"dg-permalink":"design/material-design/resting elevation","permalink":"/design/material-design/resting elevation/","title":"resting elevation"}
 ---
 
 - Resting elevation 是所有元件的初始 elevation，所有的元件有其各自初始的高度

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"data-science/PECOS","permalink":"/data-science/PECOS/"}
+{"dg-publish":true,"dg-permalink":"data-science/PECOS","permalink":"/data-science/PECOS/","title":"PECOS"}
 ---
 
 ## PECOS 是什麼

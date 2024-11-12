@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/indexed","permalink":"/software-engineer/tools/elasticsearch/indexed/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/indexed","permalink":"/software-engineer/tools/elasticsearch/indexed/","title":"indexed"}
 ---
 
 - Every field that is [[software-engineer/tools/elasticsearch/indexed\|indexed]] in [[Lucene\|Lucene]] is converted into a fast search structure for its particular type.

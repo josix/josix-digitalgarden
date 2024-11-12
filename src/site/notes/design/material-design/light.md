@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"design/material-design/light","permalink":"/design/material-design/light/"}
+{"dg-publish":true,"dg-permalink":"design/material-design/light","permalink":"/design/material-design/light/","title":"light"}
 ---
 
 ## Light and Shadows

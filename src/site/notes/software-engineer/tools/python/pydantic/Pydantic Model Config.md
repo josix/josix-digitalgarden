@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/python/pydantic/Pydantic Model Config","permalink":"/software-engineer/tools/python/pydantic/Pydantic Model Config/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/python/pydantic/Pydantic Model Config","permalink":"/software-engineer/tools/python/pydantic/Pydantic Model Config/","title":"Pydantic Model Config"}
 ---
 
 - 可以透過定義在 [[software-engineer/tools/python/pydantic/Pydantic Model\|Pydantic Model]] 或 [[Pydantic Dataclasses\|Pydantic Dataclasses]] 中的 `Config` Class 控制 model 行為

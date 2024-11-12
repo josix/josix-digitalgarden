@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/designing-data-intensive-application/transaction","permalink":"/software-engineer/designing-data-intensive-application/transaction/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/designing-data-intensive-application/transaction","permalink":"/software-engineer/designing-data-intensive-application/transaction/","title":"Transaction","tags":["database","transaction"]}
 ---
 
 <!-- # 筆記本體 -->

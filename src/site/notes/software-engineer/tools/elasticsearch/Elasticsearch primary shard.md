@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/Elasticsearch primary shard","permalink":"/software-engineer/tools/elasticsearch/Elasticsearch primary shard/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/Elasticsearch primary shard","permalink":"/software-engineer/tools/elasticsearch/Elasticsearch primary shard/","title":"Elasticsearch primary shard"}
 ---
 
 - Elasticsearch shard 是 [[software-engineer/tools/elasticsearch/Elasticsearch\|Elasticsearch]] 最小的運作單元，每個 shard 持有一部分[[software-engineer/tools/elasticsearch/Elasticsearch index\|Elasticsearch index]] 的資料。

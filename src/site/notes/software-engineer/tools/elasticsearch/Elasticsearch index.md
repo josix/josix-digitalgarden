@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/Elasticsearch index","permalink":"/software-engineer/tools/elasticsearch/Elasticsearch index/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/Elasticsearch index","permalink":"/software-engineer/tools/elasticsearch/Elasticsearch index/","title":"Elasticsearch index"}
 ---
 
 - 在 RDB 中對應 database 的存在

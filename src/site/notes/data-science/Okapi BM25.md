@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"data-science/Okapi BM25","permalink":"/data-science/Okapi BM25/"}
+{"dg-publish":true,"dg-permalink":"data-science/Okapi BM25","permalink":"/data-science/Okapi BM25/","title":"Okapi BM25","tags":["search","tech"]}
 ---
 
 

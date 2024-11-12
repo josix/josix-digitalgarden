@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/python/pytest/Pytest.fixture","permalink":"/software-engineer/tools/python/pytest/Pytest.fixture/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/python/pytest/Pytest.fixture","permalink":"/software-engineer/tools/python/pytest/Pytest.fixture/","title":"Pytest.fixture"}
 ---
 
 ## Pytest Fixtures 是什麼

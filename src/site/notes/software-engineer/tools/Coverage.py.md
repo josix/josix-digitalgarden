@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/Coverage.py","permalink":"/software-engineer/tools/Coverage.py/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/Coverage.py","permalink":"/software-engineer/tools/Coverage.py/","title":"Coverage.py"}
 ---
 
 ## 什麼是 Coverage.py

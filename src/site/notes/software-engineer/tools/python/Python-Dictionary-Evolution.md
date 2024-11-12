@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/python/Python-Dictionary-Evolution","permalink":"/software-engineer/tools/python/Python-Dictionary-Evolution/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/python/Python-Dictionary-Evolution","permalink":"/software-engineer/tools/python/Python-Dictionary-Evolution/","title":"Python-Dictionary-Evolution","tags":["python","hashmap"]}
 ---
 
 ## Python Dictionary 的演進（until 3.6）

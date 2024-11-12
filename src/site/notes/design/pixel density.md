@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"design/pixel density","permalink":"/design/pixel density/"}
+{"dg-publish":true,"dg-permalink":"design/pixel density","permalink":"/design/pixel density/","title":"pixel density"}
 ---
 
 ### 像素密度（Pixel Density） 是什麼

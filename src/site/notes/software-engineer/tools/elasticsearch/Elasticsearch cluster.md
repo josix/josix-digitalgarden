@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/Elasticsearch cluster","permalink":"/software-engineer/tools/elasticsearch/Elasticsearch cluster/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/Elasticsearch cluster","permalink":"/software-engineer/tools/elasticsearch/Elasticsearch cluster/","title":"Elasticsearch cluster"}
 ---
 
 - Elasticsearch cluster 由一個或多個有著相同 `cluster.name` 的 [[software-engineer/tools/elasticsearch/Elasticsearch node\|Elasticsearch node]] 組成，cluster 分散資料至這些 node 中。

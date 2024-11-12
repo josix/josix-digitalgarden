@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/Elasticsearch master node","permalink":"/software-engineer/tools/elasticsearch/Elasticsearch master node/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/Elasticsearch master node","permalink":"/software-engineer/tools/elasticsearch/Elasticsearch master node/","title":"Elasticsearch master node"}
 ---
 
 - Master node 負責管理 cluster 中的所有改變如 增刪 [[software-engineer/tools/elasticsearch/Elasticsearch index\|Elasticsearch index]]，增刪任何 [[software-engineer/tools/elasticsearch/Elasticsearch node\|Elasticsearch node]] 到 cluster 中。

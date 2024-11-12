@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/term query","permalink":"/software-engineer/tools/elasticsearch/term query/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/elasticsearch/term query","permalink":"/software-engineer/tools/elasticsearch/term query/","title":"term query"}
 ---
 
 - term query 是 [[software-engineer/tools/elasticsearch/term level query\|term level query]] 用於檢索欄位完全匹配給定 term 的[[software-engineer/tools/elasticsearch/Elasticsearch document\|Elasticsearch document]]，並且執行相較快速

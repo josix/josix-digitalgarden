@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"design/material-design/elevation","permalink":"/design/material-design/elevation/"}
+{"dg-publish":true,"dg-permalink":"design/material-design/elevation","permalink":"/design/material-design/elevation/","title":"elevation"}
 ---
 
 在 [[design/material-design/Material Design\|Material Design]] 中，Elevation 用於表達 Surface 的高度，以凸顯視覺層級和空間感。

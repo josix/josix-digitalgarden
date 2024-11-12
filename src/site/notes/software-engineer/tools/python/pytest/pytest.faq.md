@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/python/pytest/pytest.faq","permalink":"/software-engineer/tools/python/pytest/pytest.faq/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/python/pytest/pytest.faq","permalink":"/software-engineer/tools/python/pytest/pytest.faq/","title":"pytest.faq"}
 ---
 
 ## FAQ

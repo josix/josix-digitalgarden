@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"data-science/extreme multilabel ranking","permalink":"/data-science/extreme multilabel ranking/"}
+{"dg-publish":true,"dg-permalink":"data-science/extreme multilabel ranking","permalink":"/data-science/extreme multilabel ranking/","title":"extreme multilabel ranking"}
 ---
 
 ## 什麼是 Extreme Multilable Ranking

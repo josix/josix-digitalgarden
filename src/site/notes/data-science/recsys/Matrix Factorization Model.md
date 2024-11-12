@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"data-science/recsys/Matrix Factorization Model","permalink":"/data-science/recsys/Matrix Factorization Model/"}
+{"dg-publish":true,"dg-permalink":"data-science/recsys/Matrix Factorization Model","permalink":"/data-science/recsys/Matrix Factorization Model/","title":"Matrix Factorization Model","tags":["recsys","thesis"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"software-engineer/tools/python/pydantic/Pydantic validator","permalink":"/software-engineer/tools/python/pydantic/Pydantic validator/"}
+{"dg-publish":true,"dg-permalink":"software-engineer/tools/python/pydantic/Pydantic validator","permalink":"/software-engineer/tools/python/pydantic/Pydantic validator/","title":"Pydantic validator"}
 ---
 
 - 設定預設值給 `Optional` 欄位可以透過 validator:

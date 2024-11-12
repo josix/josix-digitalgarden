@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"design/density independent pixel","permalink":"/design/density independent pixel/"}
+{"dg-publish":true,"dg-permalink":"design/density independent pixel","permalink":"/design/density independent pixel/","title":"density independent pixel"}
 ---
 
 [[design/density independent pixel\|density independent pixel]] 又稱 dp（or dip），是 Android 設備介面尺寸單位，為了解決不同設備上 [[design/pixel density\|pixel density]] 不同會顯示不同大小的介面，而發明的統一尺寸單位。

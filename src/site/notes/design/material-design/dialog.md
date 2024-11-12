@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"design/material-design/dialog","permalink":"/design/material-design/dialog/"}
+{"dg-publish":true,"dg-permalink":"design/material-design/dialog","permalink":"/design/material-design/dialog/","title":"dialog"}
 ---
 
 ## 什麼是對話框（Dialog）
