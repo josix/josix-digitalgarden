@@ -27,6 +27,12 @@ Problem: 隨著數據分析的需求上升，資料庫的使用者已經不再�
 
 - 2020s: [[Lakehouse-System\|Lakehouse-System]] - Databricks 2021 年的 [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf) 中提到自 2015 年後開始 data lake + data warehouse 的 two-tier 架構使得資料的不易管理並且有 Reliability、Data Staleness 的問題，因此在這個時期的系統開始提供 Reliable Data Management 的功能，透過 log-structured file 的方式進行資料的 schema/versioning 的 transaction CRUD 管理和追蹤並讓使用者確保可以在 Catalog 得到想要的資料版本。如 Netflix 的 Iceberg，Uber 的 Hudi，Databricks 的 Delta Lake 皆是此時期的產物。
 
+Lakehouse System 的誕生得益於以下幾個情境：
+
+- 使用者已不再只透過 SQL 進行資料查詢，而是需要更多的分析執行功能。
+- 資料的存取和計算分離，使得資料交換和定義更加容易
+- 資料的需求不再只是結構化資料，而是半結構化和非結構化資料。
+
 ## 延伸問題
 
 - 為什麼將選擇將資料存放於 Cloud Object Store？與直接存放於硬碟有什麼 trade-off？
