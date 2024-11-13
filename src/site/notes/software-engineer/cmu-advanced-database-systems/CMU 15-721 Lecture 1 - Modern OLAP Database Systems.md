@@ -25,12 +25,12 @@ Problem: 隨著數據分析的需求上升，資料庫的使用者已經不再�
 
 ![Share Disk Engines](https://josix.tw/img/share-disk-engines.png)
 
-- 2020s: Lakehouse-Systems
+- 2020s: [[Lakehouse-System\|Lakehouse-System]] - Databricks 2021 年的 [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf) 中提到自 2015 年後開始 data lake + data warehouse 的 two-tier 架構使得資料的不易管理並且有 Reliability、Data Staleness 的問題，因此在這個時期的系統開始提供 Reliable Data Management 的功能，透過 log-structured file 的方式進行資料的 schema/versioning 的 transaction CRUD 管理和追蹤並讓使用者確保可以在 Catalog 得到想要的資料版本。如 Netflix 的 Iceberg，Uber 的 Hudi，Databricks 的 Delta Lake 皆是此時期的產物。
 
 ## 延伸問題
 
 - 為什麼將選擇將資料存放於 Cloud Object Store？與直接存放於硬碟有什麼 trade-off？
-  將 Storage Layer 和 Computation Layer 分離的好處是所有的存放不再唯有透過資料庫才可以存放，任何人都可以直接存放在 Cloud Object Store 並決定是否進一步被 OLAP 資料庫所使用，而存放格式也不不再局限於資料庫的設計和預先定義的 Schema。
+  將 Storage Layer 和 Computation Layer 分離的好處是所有的存放不再唯有透過資料庫才可以存放，任何人都可以直接存放在 Cloud Object Store 並決定是否進一步被 OLAP 資料庫所使用，而存放格式也不不再局限於資料庫的設計和預先定義的 Schema 更貼合 semi-structure 資料的需求。
 
 ## See Also
 
@@ -39,3 +39,4 @@ Problem: 隨著數據分析的需求上升，資料庫的使用者已經不再�
 ## References
 
 - [S2024 #01 - Modern OLAP Database Systems (CMU Advanced Database Systems)](https://www.youtube.com/watch?v=5J-I8Mj8tss&list=PLSE8ODhjZXjYa_zX-KeMJui7pcN1rIaIJ)
+- [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
