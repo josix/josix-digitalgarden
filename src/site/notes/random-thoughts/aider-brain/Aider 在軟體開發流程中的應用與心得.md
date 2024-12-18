@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"random-thoughts/aider-brain","permalink":"/random-thoughts/aider-brain/","title":"Aider 在軟體開發流程中的應用與心得","tags":["llm","software-development"]}
+{"dg-publish":true,"dg-permalink":"random-thoughts/aider-brain/how-to-use-aider-in-software-development","permalink":"/random-thoughts/aider-brain/how-to-use-aider-in-software-development/","title":"Aider 在軟體開發流程中的應用與心得","tags":["llm","software-development"]}
 ---
 
-
-# Aider 在軟體開發流程中的應用與心得
 
 ## 應用背景
 
