@@ -1257,7 +1257,3 @@ Like strategic planning:
 4. **Prepare for failures**: Implement comprehensive error handling and recovery
 
 These best practices represent years of experience running Kafka-based Spark applications in production environments, providing a solid foundation for reliable, high-performance data processing.
-
-<function_calls>
-<invoke name="TodoWrite">
-<parameter name="todos">[{"id": "1", "content": "Create comprehensive markdown file with enhanced diagrams showing Spark Kafka offset range calculation and row counting", "status": "completed", "priority": "high"}]
